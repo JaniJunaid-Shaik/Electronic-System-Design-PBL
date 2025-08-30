@@ -22,4 +22,12 @@ By combining safety and technology, it ensures reliable monitoring.
   - Caregivers or guardians receive the alert (via SMS or mobile app notification) and can track the user’s location.
   - The system continues monitoring until the emergency is resolved or manually reset.
 ## Key features :
+      1. Real-time GPS Tracking – Provides accurate location updates of the wearer to the guardian.
+      2. SOS Emergency Alert – Sends instant SMS/app notifications to predefined contacts when triggered.
+      3. IoT Connectivity – Works with GSM/Bluetooth for seamless communication.
+      4. Vibration & LED Indicators – Notifies the wearer during emergencies or alerts.
+      5. Lightweight & Portable Design – Comfortable to wear for long durations.
+      6. Rechargeable Battery – Ensures long-lasting, low-power operation.
+      7. Smartphone Integration – Compatible with mobile apps for monitoring and alerts with a notification.
+      8. Multi-user Application – Useful for children, elderly, women’s safety, and industrial workers.
 ## Why it matters :
